@@ -1,4 +1,4 @@
-# Particle-NeoPixel v1.3.5
+# Particle NeoPixel v1.3.5
 
 A library for manipulating NeoPixel RGB LEDs for the:
 
