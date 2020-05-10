@@ -1,4 +1,4 @@
-#include "neopixel2.h"
+#include "neopixel.h"
 
 /*-------------------------------------------------------------------------
   Particle Core, Particle Photon, P1, Electron, Argon, Boron, Xenon and
